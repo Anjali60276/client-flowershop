@@ -7,6 +7,9 @@ The application focuses on **modern UI design, clean code, and real-world e-comm
 
 ---
 
+## 🎥 Demo Video
+[![Flower Shop Demo Video](https://img.youtube.com/vi/BYG8OaOwve0/0.jpg)](https://www.youtube.com/watch?v=BYG8OaOwve0)
+
 ## 📌 Project Overview
 
 The Flower Shop application allows users to browse flower products, add items to cart, and place orders.  
